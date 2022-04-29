@@ -1,2 +1,3 @@
 # HelloEarth
-Python Examples and Datesets for Remote Sensing
+> print ("Hello Earth!")
+> Hello Earth
