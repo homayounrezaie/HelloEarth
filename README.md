@@ -1,3 +1,2 @@
 # HelloEarth
-> print ("Hello Earth!")
-> Hello Earth
+#print ("Hello Earth!")
