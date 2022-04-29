@@ -1,2 +1,1 @@
-# HelloEarth
-#print ("Hello Earth!")
+# Hello Earth: Analyzing Satellite Imagery Using the Python
