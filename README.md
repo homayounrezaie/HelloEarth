@@ -1,1 +1,1 @@
-# Hello Earth: Analyzing Geospatial Data Using Python
+# Hello Earth: Remote Sensing and GIS in Python without GUI !!! (From Zero to Hero )
