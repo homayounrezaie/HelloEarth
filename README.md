@@ -1,1 +1,1 @@
-# Hello Earth: Remote Sensing and GIS in Python without GUI !!! (From Zero to Hero )
+# Hello Earth: Remote Sensing and GIS in Python without GUI 
