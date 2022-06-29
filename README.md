@@ -1,1 +1,1 @@
-# Hello Earth: Analyzing Satellite Imagery Using the Python
+# Hello Earth: Analyzing Geospatial Data Using Python
