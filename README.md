@@ -1,4 +1,4 @@
-![HelloEarth](https://github.com/homayounrezaie/HelloEarth/blob/main/images/HelloEarth.png?raw=true)
+![HelloEarth](https://github.com/homayounrezaie/HelloEarth/blob/main/.assets/helloearth.png?raw=true)
 
 <div align="center">
 
